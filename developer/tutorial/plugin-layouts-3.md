@@ -135,7 +135,7 @@ layout: [{
   theme: "default",
   enabled: true,
   structure: {
-    template: "products",
+    template: "productsLanding",
     layoutHeader: "NavBar",
     layoutFooter: "Footer",
     notFound: "productNotFound",
